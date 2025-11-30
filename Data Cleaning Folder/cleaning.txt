@@ -1,1 +1,0 @@
-This folder contains the raw dataset, new dataset and the Notebook used.
