@@ -1,0 +1,1 @@
+This folder contains the raw csv file, the cleaned csv file, and the notebook used to show the whole process.
